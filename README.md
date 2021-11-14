@@ -35,16 +35,16 @@ Labs_2
 обмежитися декількома)
 4) нормалізувати дані
 5) провести навчання наступних класифікаторів
-• kNN
-• дерево прийняття рішень і візуалізувати його
-• SVM
-• Random Forest
-• AdaBoost
+- kNN
+- дерево прийняття рішень і візуалізувати його
+- SVM
+- Random Forest
+- daBoost
+- 
 Підібрати оптимальні параметри для
-• kNN
-• для SVM за допомогою GridSearch підібрати оптимальні «C» і «gamma»
-• за допомогою GridSearch підібрати оптимальні параметри для Random Forest і
-AdaBoost
+- NN
+- я SVM за допомогою GridSearch підібрати оптимальні «C» і «gamma»
+- за допомогою GridSearch підібрати оптимальні параметри для Random Forest і AdaBoost
 
 Серед обраних оптимальних моделей кожного класу вибрати найкращу. Відобразити
 sklearn.metrics.classification_report і sklearn.metrics.confusion_matrix
