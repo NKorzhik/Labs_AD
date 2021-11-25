@@ -65,7 +65,7 @@ sklearn.manifold.TSNE для візуалізації даних, з якими 
 
 Приклад: https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html
 
-б)Згенеруйте набір синтетичних даних у вигляді суміші двох гаусіан за допомогою функції:
+б) Згенеруйте набір синтетичних даних у вигляді суміші двох гаусіан за допомогою функції:
 
 https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.multivariate_normal.html
 
