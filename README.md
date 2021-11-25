@@ -50,6 +50,8 @@ Labs_2
 sklearn.metrics.classification_report і sklearn.metrics.confusion_matrix
 
 Labs_3
+
+
 1. Зниження розмірності і візуалізація даних
 Застосуйте методи зниження розмірності sklearn.decomposition.PCA і
 sklearn.manifold.TSNE для візуалізації даних, з якими ви працювали в лабораторній No 2
@@ -57,13 +59,13 @@ sklearn.manifold.TSNE для візуалізації даних, з якими 
 
 2. Кластерний аналіз
 
-   а) За допомогою алгоритму k-means зробіть квантування зображення (видалення
+а) За допомогою алгоритму k-means зробіть квантування зображення (видалення
 візуально надлишкової інформації) з глибиною 64, 32, 16 та 8 рівнів для будь-якого
 обраного самостійно зображення.
 
 Приклад: https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html
 
-   б)Згенеруйте набір синтетичних даних у вигляді суміші двох гаусіан за допомогою функції:
+б)Згенеруйте набір синтетичних даних у вигляді суміші двох гаусіан за допомогою функції:
 
 https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.multivariate_normal.html
 
